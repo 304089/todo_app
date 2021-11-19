@@ -1,2 +1,2 @@
-# todo_app
-Created with CodeSandbox
+Java Script のみの TODO アプリ
+コードエディター：　 CodeSandbox
